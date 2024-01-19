@@ -3,9 +3,6 @@ Link to the Paper: [Arxiv](https://arxiv.org/pdf/2106.06196.pdf)
 
 Deep Neural Networks, though seemingly accurate, can be easily fooled by small, intentional changes in the input data called adversarial attacks.This highlights the need for robust models that maintain accuracy even under such attacks. Thus, the paper attempts to train the model on such adversarial examples in order to become resistant/robust against such manipulations in the data.
 
-
-- Tried running the code locally, added reqs and a README file as well.
-
 *Prerequisites*
 -------------
 - `Python 3.10`
